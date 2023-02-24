@@ -1,0 +1,94 @@
+/*common start*/
+body{
+	font-family: sans-serif;
+	font-size: 16px;
+	color: #0f2656;
+	
+}
+/*common end */
+
+/*header start*/
+
+header{
+	padding: 10px 0;
+	
+}
+.container {
+	width: 90%;
+	margin: 0 auto;
+	border: 1px solid red;
+	overflow: hidden;
+	
+}
+.logo{
+	width: 10%;
+	float: left;
+	border: 1px solid black;
+	
+}
+
+.logo a{
+	
+	
+}
+.logo a img{
+	width: 100%;
+	
+}
+
+.menu{
+	width:60%;
+	float: right;
+	border: 1px solid black;
+}
+
+.menu ul{
+	list-style: none;
+	float: right;
+}
+.menu ul li{
+	float: left;
+}
+.menu ul li a {
+	text-decoration: none;
+	color: #0f2656;
+	padding: 3px 20px;
+	display:block;
+	transition-duration:.3s;
+	border-radius: 10%;
+	
+}
+
+
+.menu ul li a:hover{
+	background-color: #008aff;
+}
+
+.menu ul li:last-child a{
+	padding-right: 0px;
+}
+
+/*header end*/
+
+/*container2 start*/
+
+.container2 {
+	width: 60%;
+	margin: 0 auto;
+}
+
+
+
+/*container2 end*/
+
+
+sb #008aff
+nb #0f2656
+rd #0f2656
+
+p #fdebed
+g #ebf9f4
+y #fff2d6
+It's time to amplify your
+online business
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
